@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data baseurl="http://www3.pucrs.br/portal/page/portal/inscer/">
+	<item id="Capa/" name="Inicial" />
+	<item id="Capa/Apresentacao" name="Apresentação">
+		<item id="Capa/Apresentacao/Missao" name="Missão" />
+		<item id="Capa/Apresentacao/Instituicoes" name="Instituições Parceiras" />
+		<item id="Capa/Apresentacao/Laboratorios" name="Laboratórios Associados" />
+		<item id="Capa/Apresentacao/Projetos" name="Projetos de P&amp;D" />
+		<item id="Capa/Apresentacao/Noticias" name="Notícias e Eventos" />
+		<item id="Capa/Apresentacao/Fotos" name="Fotos" />
+	</item>
+	<item id="Capa/InteracaoINSCER" name="Interação com o INSCER">
+		<item id="Capa/InteracaoINSCER/Servicos" name="Serviços de P&amp;D" />
+		<item id="Capa/InteracaoINSCER/Propostas" name="Propostas de projetos ao InsCer" />
+	</item>
+	<item id="Capa/CentroImagem" name="Centro de Imagem">
+		<item id="Capa/CentroImagem/Tecnologias" name="Tecnologias disponíveis" />
+		<item id="Capa/CentroImagem/Infraestrutura" name="Infraestrutura" />
+		<item id="Capa/CentroImagem/Laboratorios" name="Laboratórios" />
+		<item id="Capa/CentroImagem/TourVirtual" name="Tour Virtual" />
+	</item>
+	<item id="Capa/CentroProducao" name="Centro de Produção de Radiofármacos">
+		<item id="Capa/CentroProducao/Tecnologias" name="Tecnologias disponíveis" />
+		<item id="Capa/CentroProducao/Infraestrutura" name="Infraestrutura" />
+		<item id="Capa/CentroProducao/Laboratorios" name="Laboratórios" />
+		<item id="Capa/CentroProducao/TourVirtual" name="Tour Virtual" />
+	</item>
+	<item id="Capa/CentroPesquisa" name="Centro de Pesquisa Pré-Clínica">
+		<item id="Capa/CentroPesquisa/Tecnologias" name="Tecnologias disponíveis" />
+		<item id="Capa/CentroPesquisa/Infraestrutura" name="Infraestrutura" />
+		<item id="Capa/CentroPesquisa/Laboratorios" name="Laboratórios" />
+		<item id="Capa/CentroPesquisa/TourVirtual" name="Tour Virtual" />
+	</item>
+	<item id="http://webapp.pucrs.br/curriculorh/" name="Trabalhe Conosco" />
+	<item id="Capa/Equipe" name="Equipe" />
+	<item id="Capa/FaleConosco" name="Fale Conosco" />
+</data>
